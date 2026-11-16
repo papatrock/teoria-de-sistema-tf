@@ -1,0 +1,41 @@
+Títulos/temas de trabalhos
+Os trabalhos deverão ser desenvolvidos de forma individual ou em equipe (até 3 integrantes). Os trabalhos deverão ser configurados conforme as Normas utilizadas na UFPR. Os arquivos deverão ser salvos em .pdf e postados nesta plataforma até a data determinada. Cada trabalho tem valor entre 0(zero) e 100 (cem) e os critérios serão apresentados em breve. Serão feitas apresentações a partir da data da entrega. 
+Orienta-se que as referências sejam de produções entre 2022 e 2026. cujas fontes devem ser de artigos científicos e/ou de experiências técnicas (colocando a sustentação teórica).
+ 
+Títulos:
+Governança de IA em sistemas corporativos
+IA generativa e riscos informacionais
+Vieses algorítmicos como falha sistêmica
+Auditabilidade de sistemas.
+Segurança em ambientes multicloud e híbridos
+Computação quântica e o fim da criptografia atual: ajustes de sistemas?
+Marco Legal de IA no Brasil.
+ESG e governança de TI: sustentabilidade digital
+Regulação de Big Techs e poder de mercado digital
+Ética no uso de dados de colaboradores (people analytics)
+Dilemas éticos de automação e substituição de mão de obra por sistemas de IA
+Riscos de terceirização em ambientes de TI
+Governança de dados em organizações públicas
+Interoperabilidade de dados entre sistemas públicos e privados 
+
+
+--------tarefa gerais da disciplina-----------------------
+
+Sobre  as atividades da disciplina
+Segue a lista de itens e temas de trabalhos/tarefas durante o segundo semestre de 2026. Por se tratarem de temas que possuem diferentes fontes de pesquisa, algumas referências serão indicadas somente como suporte eventual. 
+ 
+Apresentação da disciplina e linhas gerais
+Sistemas: conceitos e estruturas: Sistemas: Infosfera (Luciano Floridi) e sistemas computacionais. Entropia. Panorama geral de sistemas.
+Requisitos de estabilidade em diferentes modelos de  Sistema: discussões e pesquisa de casos emblemáticos. 
+Alguns modelos: sistemas de TI, sistemas organizacionais, sistemas normativos: pesquisa.
+Planejamento: o que orienta um planejamento de outro?
+Indicadores/parâmetros para a segurança do Sistema: pesquisa e estudo de caso.
+Critérios de análise de projeto, sob ênfase corporativa: comparativos.
+Lei Geral de Proteção de Dados aplicada à TI e como regramento de segurança em Sistema; Influências da aplicação das Leis ligadas à TI nos sistemas corporativos: pesquisa e palestra
+Planos corporativos (sistemas) considerados como relevantes na mitigação de riscos (empresas/áreas de TI).
+Caracterização de Planos de Continuidade; Estruturas.
+Análises dos Planos, segundo os Eixos: treinamentos, comunicações, mapeamentos, infraestrutura, tecnologias, regramentos internos, investimentos, monitoramentos
+Eventos, riscos que provocam problemas nos sistemas: comportamentos sobre os efeitos e para a prevenção
+ 
+TRABALHOS: a lista a seguir apresenta temas para serem escolhidos e apresentados na disciplina, configurando-os nas avaliações. 
+ 

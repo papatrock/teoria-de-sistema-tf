@@ -1,0 +1,13 @@
+# Artigo do TF: tem repositório próprio (Overleaf/GitLab da UFPR)
+trabalho-latex/
+
+# Referências com direitos reservados: não publicar em repositório público.
+# Onde obter cada uma: ver referencias/LISTA.md
+referencias/wiener1968.pdf
+referencias/martinelli2012/
+referencias/hassan2025.pdf
+referencias/finlayson2021.pdf
+
+# Lixo do Windows/WSL
+*:Zone.Identifier
+*Zone.Identifier
